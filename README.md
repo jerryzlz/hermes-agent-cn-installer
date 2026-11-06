@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-git clone [https://github.com/](https://github.com/)jerryzlz/hermes-agent-cn-installer.git
+git clone https://github.com/jerryzlz/hermes-agent-cn-installer.git
 cd hermes-agent-cn-installer
 bash HermesAgentInstall-cn.sh
 ```
